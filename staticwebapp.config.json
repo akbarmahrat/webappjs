@@ -5,13 +5,13 @@
         {
           "route": "/*",
           "allowedRoles": [
-            "authenticated"
+            "authenticated1"
           ]
         },
         {
           "route": "/index.html",
           "allowedRoles": [
-            "authenticated"
+            "authenticated1"
           ]
         },
         {
