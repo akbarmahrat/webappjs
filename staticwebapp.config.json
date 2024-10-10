@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "route": "/members",
+      "allowedRoles": [
+        "authenticated",
+        "members"
+      ]
+    }
+  ]
+}
