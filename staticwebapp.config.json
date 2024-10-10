@@ -1,8 +1,10 @@
 {
   "routes": [
     {
-      "route": "/*",
-      "allowedRoles": ["authenticated"]
+      "route": "https://orange-sand-05f1c610f.5.azurestaticapps.net",
+      "allowedRoles": [
+        "authenticated"
+      ]
     }
   ],
   "responseOverrides": {
