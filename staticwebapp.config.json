@@ -104,6 +104,12 @@
       "mimeTypes": {
         ".json": "text/json"
       }
+    },
+    {
+      "route": "/index.html",
+      "allowedRoles": [
+        "lund"
+      ]
     }
   ]
 }
