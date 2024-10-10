@@ -2,10 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "redirect": "/.auth/login/aad",
-      "allowedRoles": [
-        "authenticated"
-      ]
+      "redirect": "/.auth/login/aad"
     }
   ]
 }
