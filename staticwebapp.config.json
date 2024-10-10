@@ -1,10 +1,9 @@
 {
   "routes": [
     {
-      "trailingSlash": "auto",
       "routes": [
         {
-          "route": "/profile*",
+          "route": "/*",
           "allowedRoles": [
             "authenticated"
           ]
