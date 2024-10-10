@@ -10,9 +10,9 @@
           ]
         },
         {
-          "route": "/admin/index.html",
+          "route": "/index.html",
           "allowedRoles": [
-            "administrator"
+            "authenticated"
           ]
         },
         {
