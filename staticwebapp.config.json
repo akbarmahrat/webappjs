@@ -8,7 +8,7 @@
   "routes": [
     {
       "route": "*",
-      "redirect": "/.auth/login/aad",
+      "redirect": "/.auth/login/github",
       "allowedRoles": [
         "authenticated"
       ]
